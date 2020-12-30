@@ -1,10 +1,6 @@
-<?php /** @noinspection PhpIllegalPsrClassPathInspection */
-namespace yii\helpers;
+<?php
+namespace ptheofan\helpers;
 
-/**
- * Class FileHelper
- * @package common\helpers
- */
 class FileHelper extends BaseFileHelper
 {
     /**
