@@ -1,0 +1,24 @@
+{
+    "name": "ptheofan/yii2-file-helper",
+    "description": "Extending the Yii2 File Helper to add some more functionalities.",
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=7.4.0",
+        "yiisoft/yii2": "^2.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "p.t.",
+            "email": "ptheofan@gmail.com"
+        }
+    ],
+    "suggest": {
+        "ptheofan/yii2-file-upload-behavior": "A highly customisable system to make file-uploads management as trivial as it should be."
+    },
+    "autoload": {
+        "psr-4": {
+            "ptheofan\\helpers\\": "src"
+        }
+    }
+}
