@@ -1,6 +1,8 @@
 <?php
 namespace ptheofan\helpers;
 
+use yii\helpers\BaseFileHelper;
+
 class FileHelper extends BaseFileHelper
 {
     /**
